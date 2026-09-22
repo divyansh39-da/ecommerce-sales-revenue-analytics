@@ -357,7 +357,6 @@ The final monthly performance query combines revenue, previous-month revenue, Mo
 
 ---
 
----
 
 ## ⚠️ Disclaimer
 
