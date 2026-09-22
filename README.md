@@ -357,6 +357,19 @@ The final monthly performance query combines revenue, previous-month revenue, Mo
 
 ---
 
+---
+
+## ⚠️ Disclaimer
+
+This project uses a fully synthetic dataset created specifically for this project.
+
+The data has not been copied, scraped, downloaded, or taken from any external dataset, company, organization, website, or third-party source. The database, records, transactions, customer information, product information, and other values were generated specifically for practicing and demonstrating SQL-based business analysis.
+
+Any names, email addresses, locations, transactions, financial figures, or other details appearing in the dataset are fictional and are not intended to represent real individuals, customers, businesses, or transactions.
+
+The project is intended solely for educational, portfolio, and data-analysis demonstration purposes.
+
+
 ## 👤 Author
 
 **Divyansh Chaturvedi**
